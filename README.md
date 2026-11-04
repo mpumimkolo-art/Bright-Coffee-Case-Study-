@@ -1,6 +1,5 @@
 # Bright-Coffee-Case-Study-
 
-# Bright Coffee Shop Sales Analysis Γÿò
 
 **From sales transactions to actionable business insights**  
 **Author:** Nompumelelo Deanah Mkolo  
